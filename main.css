@@ -1,0 +1,8 @@
+.good-tacos {
+  color: blue;
+  background-color: green;
+}
+
+.nasty-tacos h2 {
+  text-decoration: line-through;
+}
